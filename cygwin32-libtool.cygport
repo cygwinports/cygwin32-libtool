@@ -3,7 +3,7 @@ inherit cross
 
 NAME="cygwin32-libtool"
 VERSION=2.4.6
-RELEASE=1
+RELEASE=3
 CATEGORY="Devel"
 SUMMARY="libtool for Cygwin 32bit toolchain"
 DESCRIPTION="GNU libtool is a generic library support script. Libtool hides the
